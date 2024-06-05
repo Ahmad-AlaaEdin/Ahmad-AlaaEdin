@@ -1,6 +1,6 @@
 # 💻 Welcome to My GitHub Profile!
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ahmad-AlaaEdin&color=blue)
+
 
 ## 👋 About Me
 - 🎓 I'm a third-year Computer Science student.
