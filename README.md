@@ -1,11 +1,11 @@
 # 💻 Welcome to My GitHub Profile!
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Ahmad-AlaaEdin&color=blue)
 
 ## 👋 About Me
 - 🎓 I'm a third-year Computer Science student.
 - 🔧 Specializing in backend development with Node.js.
-- 🌱 Currently learning advanced algorithms and cloud computing.
+
 
 ## 🛠️ Technologies & Tools
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
