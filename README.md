@@ -3,7 +3,7 @@
 
 
 ## 👋 About Me
-- 🎓 I'm a third-year Computer Science student.
+- 🎓 I'm a final-year Computer Science student.
 - 🔧 Specializing in backend development with Node.js.
 
 
